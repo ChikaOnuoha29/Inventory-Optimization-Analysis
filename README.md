@@ -8,12 +8,12 @@ This project analyzes stock inflows, outflows, and balances across multiple reta
 
 ## Key Findings:
 
-🫘 Kano store received the highest inflow of Beans.
+* Kano store received the highest inflow of Beans.
 
-🍚 Rice is the most frequently moved product with the highest movement ratio.
+* Rice is the most frequently moved product with the highest movement ratio.
 
-⚠️ Beans show risk of stockouts in some months.
+* Beans show risk of stockouts in some months.
 
-📈 Seasonal trends strongly affect inventory levels.
+Seasonal trends strongly affect inventory levels.
 
 By leveraging Power BI visuals and DAX measures, management can make informed decisions, avoid under/overstocking, and improve operational efficiency.
